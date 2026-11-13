@@ -1,0 +1,18 @@
+# Archivos compilados de Java
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Carpeta bin
+bin/
